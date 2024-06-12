@@ -8,7 +8,7 @@
 
 
     <h1>Nugsye Bot Terms of Service</h1>
-    <footer>Last Updated: 13/06/24</footer>
+    <footer>Last Updated : 13/06/24</footer>
 
     <h2>Proper Usage</h2>
     
